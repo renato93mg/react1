@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body{
+  /*
+  background-color: #242424;
+  */
+  color: #fff;
+}
